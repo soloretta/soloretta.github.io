@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: "Staatliches", cursive;
+  text-align: left;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+}
+
+h1 {
+  color: black;
+  font-family: "Quicksand", sand-serif;
+  text-align: center;
+  letter-spacing: 1px;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+h2 {
+  color: black;
+  font-family: "Quicksand", sand-serif;
+  text-align: center;
+  letter-spacing: 1px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+img {
+  max-width: 300px;
+  width: 100%;
+}
